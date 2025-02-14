@@ -5,7 +5,9 @@
 <p align="left">Helo World!🌍 My name is Fernando</p>
 
 ###
-
+<p align="center">
+  <img src="https://github.com/fernandoDev-coder/fernandoDev-coder/blob/main/cat.gif?raw=true" width="300" alt="Funny Cat GIF"/>
+</p>
 <h2 align="left">About me</h2>
 
 ###
@@ -41,5 +43,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
+<p align="center">
+  <img src="https://github.com/fernandoDev-coder/fernandoDev-coder/blob/main/cat.gif?raw=true" width="300" alt="Funny Cat GIF"/>
+</p>
 
 ###
