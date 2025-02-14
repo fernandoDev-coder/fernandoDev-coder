@@ -5,9 +5,10 @@
 <p align="left">Helo World!🌍 My name is Fernando</p>
 
 ###
-<p align="center">
-  <img src="https://github.com/fernandoDev-coder/fernandoDev-coder/blob/main/cat.gif?raw=true" width="300" alt="Funny Cat GIF"/>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/fernandoDev-coder/fernandoDev-coder/main/cat.gif" width="300" alt="Funny Cat GIF"/>
 </p>
+
 <h2 align="left">About me</h2>
 
 ###
