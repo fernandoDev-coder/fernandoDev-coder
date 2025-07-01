@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">💻 Web Development student (DAW) with a passion for coding and problem-solving.  <br>🚀 Always exploring new technologies and frameworks.  <br>👨‍💻 Backend developer<br>🐞 Professional bug creator since 2020<br><br>Let's build (and debug) something awesome together! 🚀✨</p>
+<p align="left">💻 Web Development student (DAW) with a passion for coding and problem-solving.  <br>🚀 Always exploring new technologies and frameworks.<br>Let's build (and debug) something awesome together! 🚀✨</p>
 
 ###
 
